@@ -17,11 +17,6 @@ return {
           tooltip = "The Superior Text Editor",
           icon = nil,
         },
-        display = {
-          theme = "onyx",
-          swap_fields = false,
-          swap_icons = false,
-        },
         timestamp = {
           enabled = true,
           reset_on_idle = false,
